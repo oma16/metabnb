@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/oma16/metabnb.git/static/css/main.393f7439.css",
-    "main.js": "/oma16/metabnb.git/static/js/main.df7aaf16.js",
+    "main.js": "/oma16/metabnb.git/static/js/main.5f5a0b3c.js",
     "static/js/787.5186970a.chunk.js": "/oma16/metabnb.git/static/js/787.5186970a.chunk.js",
     "static/media/Group4.png": "/oma16/metabnb.git/static/media/Group4.a8af7e0fa95161e46002.png",
     "static/media/Group3.png": "/oma16/metabnb.git/static/media/Group3.9bafa18b654dfbd5d908.png",
@@ -29,11 +29,11 @@
     "index.html": "/oma16/metabnb.git/index.html",
     "static/media/Vector.svg": "/oma16/metabnb.git/static/media/Vector.965360f773e9fdc9cc49d66d6ee92ffd.svg",
     "main.393f7439.css.map": "/oma16/metabnb.git/static/css/main.393f7439.css.map",
-    "main.df7aaf16.js.map": "/oma16/metabnb.git/static/js/main.df7aaf16.js.map",
+    "main.5f5a0b3c.js.map": "/oma16/metabnb.git/static/js/main.5f5a0b3c.js.map",
     "787.5186970a.chunk.js.map": "/oma16/metabnb.git/static/js/787.5186970a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.393f7439.css",
-    "static/js/main.df7aaf16.js"
+    "static/js/main.5f5a0b3c.js"
   ]
 }
