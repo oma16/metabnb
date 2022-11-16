@@ -1,4 +1,4 @@
-import React, { useState} from 'react'
+import React from 'react'
 import { Data1 } from './components/Data';
 import CardItems from './components/CardItems';
 import setting from './images/setting.svg'
@@ -6,7 +6,7 @@ import setting from './images/setting.svg'
 
 const Place = () => {
      
-  const [data, setData] = useState(Data1);
+  const data = Data1;
 
 
   return (

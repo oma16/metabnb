@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { InputGroup, Form, Row, Container, Col, Button } from 'react-bootstrap';
 import image4 from './images/Group4.png';
 import image5 from './images/Group3.png';
@@ -13,7 +13,7 @@ import { Data } from './components/Data';
 
 const Home = () => {
 
-    const [data, setData] = useState(Data);
+    const data = Data;
 
   return (
     <div>

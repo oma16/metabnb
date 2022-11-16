@@ -1,12 +1,12 @@
 body {
-  background: linear-gradient(124.4deg, #FFFFFF 10.8%, #FFFFFF 87.34%);
+  background:  #FFFFFF;
 }
 .navstart {
   margin-left: 110px !important;
 }
 
 .logo {
-  height: 36.66666793823242px;
+  height: 36px;
   width: 233px;
   
 
@@ -20,7 +20,7 @@ body {
   color: #434343;
 }
 .navbtn {
-  background: linear-gradient(90deg, #A02279 11.45%, #A02279 11.45%);
+  background:  #A02279!important;
   border-radius: 10px;
   border-color:  #A02279!important;
   height: 48px;

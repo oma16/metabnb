@@ -10,20 +10,20 @@ import Nft from './Nft';
 
 function App() {
   return (
-    <div className="">
+    <div>
       
-    {/* <Router> */}
+    <Router>
     <Navmenu />
       <Routes>
-        <Route  path='/' element={< Home />}></Route>
-        <Route  path='place' element={< Place />}></Route>
-        <Route  path='nfts' element={< Nft />} ></Route>
-        <Route  path='community' element={< Community />} ></Route>
+        <Route  path="/" element={<Home />}></Route>
+        <Route  path="place" element={<Place />}></Route>
+        <Route  path="nfts" element={<Nft />} ></Route>
+        <Route  path="community" element={<Community />} ></Route>
         
       </Routes>
       <Footer />
 
-    {/* </Router> */}
+    </Router>
 
     </div>
   );
