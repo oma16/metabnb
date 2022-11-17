@@ -166,7 +166,7 @@ body {
 
 .more {
  background-color: #A02279;
- height: 774px;
+ max-height: 225vh;
 }
 
 .searchinput {
@@ -246,11 +246,10 @@ body {
   .navstart {
     margin-left: 65px !important;
   }
-  /* .heroimg {
-    height: 150px;
-    width: 190px;
-
-  } */
+  
+}
+@media screen and (max-width:980px) {
+  
 }
 @media screen and (max-width:780px) {
   .navstart {
@@ -268,9 +267,7 @@ body {
 .next {
   font-size: 34px;
 }
-.more {
-  height: 1200px;
-}
+
 .discover {
   font-size: 2rem;
 }
@@ -303,10 +300,7 @@ body {
     font-size: 0.9rem;
   }
 
-  .more {
-    height: 900px;
-  }
-  .discover {
+  .discover { 
     font-size: 1rem;
   }
   .nft {
